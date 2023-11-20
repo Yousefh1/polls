@@ -1,3 +1,3 @@
 # polls
 
-This is a quick django app from Dennis Ivy on Youtube
+This is a django app from Dennis Ivy on Youtube
